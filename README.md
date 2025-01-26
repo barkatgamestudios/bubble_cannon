@@ -10,4 +10,4 @@ Game Designer/2D Artist: Shikeb Khan <br>
 
 Technologies: <br>
 Unity 3D Engine<br>
-Inkscape (For creating assets)
+Inkscape (for assets)
